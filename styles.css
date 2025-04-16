@@ -4,11 +4,12 @@ section{
     align-items: center;
     justify-content: space-around;
     border-style: doubled;
-    background-color:rgba(400, 390, 59, 0.58);
+    background-color:rgba(600, 390, 59, 0.58);
 }
 body{
     text-align: center;
-    background-color: rgb(183, 97, 26);
+    background-color: gitrgb(58, 121, 87);
+
 }
 ul{
     display: inline;
